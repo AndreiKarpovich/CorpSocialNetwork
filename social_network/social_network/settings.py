@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'dialogs',
     'posts',
     'sorl.thumbnail',
-    'bots'
+    
 
 ]
 
